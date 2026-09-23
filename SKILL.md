@@ -1,4 +1,4 @@
-﻿---
+---
 name: zuche-hongbao
 slug: zuche-hongbao
 displayName: 租车自驾红包助手
